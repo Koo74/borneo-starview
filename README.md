@@ -74,7 +74,7 @@ Hosting: Streamlit Community Cloud
 Inspiration: Borneo's incredible biodiversity and dark skies
 
 <div align="center">
-Made with 🌌 in Malaysia
+Made with 🌌Koo Guan Min in Malaysia
 
 ⭐ Star this repo if you find it useful!
 
