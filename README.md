@@ -37,7 +37,7 @@ Borneo AstroView is free and open source — no ads, no tracking, no paywalls. I
 
 If it helped you find a great stargazing spot, check air quality before a photo session, or plan a trip to Borneo's dark skies — you can support development here:
 
-https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow?style=flat&logo=buy-me-a-coffee
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/stargazex)
 
 💚 Your support goes toward:
 🛰️ Server costs for hosting both apps (Streamlit Community Cloud)
@@ -74,6 +74,6 @@ Made with 🌌 in Malaysia
 
 ⭐ Star this repo if you find it useful!
 
-https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow?style=flat&logo=buy-me-a-coffee
+[☕ buymeacoffee.com/stargazex](https://buymeacoffee.com/stargazex)
 
 </div> ```
