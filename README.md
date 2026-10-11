@@ -12,6 +12,10 @@
 
 An advanced stargazing site selector for **Sabah & Sarawak, Malaysia (Borneo)**. Find the best dark-sky locations, check real-time haze conditions, and plan your next astrophotography session in Borneo's pristine rainforests and highlands.
 
+<a href="https://www.buymeacoffee.com/stargazex">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" >
+</a>
+
 ---
 
 ## ✨ Features
